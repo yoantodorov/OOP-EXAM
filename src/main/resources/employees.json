@@ -1,0 +1,25 @@
+[ {
+  "Id" : 55,
+  "Name" : "Joseph Josephson",
+  "StartDate" : [ 1980, 5, 20 ],
+  "EndDate" : null,
+  "Department" : "IT",
+  "Role" : "Junior Developer",
+  "Salary" : 2000.15
+}, {
+  "Id" : 66,
+  "Name" : "Josephina Josephson",
+  "StartDate" : [ 1984, 5, 20 ],
+  "EndDate" : null,
+  "Department" : "IT",
+  "Role" : "Senior Developer",
+  "Salary" : 5000.15
+}, {
+  "Id" : 1,
+  "Name" : "Peter Peterson",
+  "StartDate" : [ 2023, 11, 11 ],
+  "EndDate" : null,
+  "Department" : "IT",
+  "Role" : "Java Developer",
+  "Salary" : 2500.5
+} ]
